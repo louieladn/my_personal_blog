@@ -3,4 +3,4 @@
 
 - [x] if you are a hooman want to explore and read my article 
 - [x] Creativity thoughts must express in some manner 
-- [x] the World is harsh, but we gonna strive to be better ---
+- [x] the World is harsh, but we gonna strive to be better
